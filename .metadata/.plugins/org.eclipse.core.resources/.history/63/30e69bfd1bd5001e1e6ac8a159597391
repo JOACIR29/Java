@@ -1,0 +1,10 @@
+package Execicio_27;
+
+public class ContarVogais {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

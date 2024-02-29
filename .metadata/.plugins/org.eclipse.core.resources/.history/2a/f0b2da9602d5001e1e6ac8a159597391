@@ -1,0 +1,10 @@
+package Execicio_14;
+
+public class CalculadoraDistanciaPontos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

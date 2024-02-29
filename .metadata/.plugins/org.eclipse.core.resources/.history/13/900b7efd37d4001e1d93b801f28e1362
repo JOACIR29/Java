@@ -1,0 +1,10 @@
+package Execicio_10;
+
+public class CalculadoraTriangulo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

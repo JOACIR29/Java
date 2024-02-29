@@ -1,0 +1,10 @@
+package Execicio_07;
+
+public class CalculadoraAreaCirculo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
