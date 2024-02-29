@@ -12,7 +12,7 @@ public class NumerosParesImpares {
 		
 		System.out.println("\nNúmeros Ímpares:");
 		for (int i = 51; i <= 100; i++) {
-			if (i % 2 != 0) {
+			if (i % 3 != 0) {
 			}
 		}
 	}
